@@ -13,7 +13,7 @@ This project demonstrates how to host a static website on AWS using:
 - HTML/CSS
 
 ## Screenshots
-
+![AWS Static website](./screenshot aws-static.png)
 
 ## Deployment Steps
 1. Create S3 bucket with static website hosting
