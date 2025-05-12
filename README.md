@@ -18,7 +18,7 @@ This project demonstrates how to host a static website on AWS using:
 
 ## Deployment Steps
 1. Create S3 bucket with static website hosting
-2. Upload contents of `/site`
+2. Upload contents of 'index.html'
 3. Configure CloudFront with S3 origin
 4. (Optional) Set up custom domain with Route 53
 
